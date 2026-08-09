@@ -1,8 +1,8 @@
 # Fixstant Product and Marketplace Operations Case Study
 
-This repository presents a public portfolio case study about my work with Fixstant, a service marketplace connecting clients, artisans, marketers, and operations teams.
+This repository presents a public portfolio case study documenting my work with Fixstant, a service marketplace connecting clients, artisans, marketers and operations teams.
 
-I worked as Project Manager and Operations Lead from September 2024 to February 2026. I was not the founder. My role focused on turning marketplace needs into practical workflows, aligning product and operations, and preparing the service journey for reliable delivery.
+From September 2024 to February 2026, I worked in a Project Manager and Operations Lead capacity, focusing on turning marketplace needs into practical workflows, aligning product and operations, coordinating service processes and improving the journey from booking through delivery and resolution.
 
 ## View the case study
 
@@ -28,49 +28,26 @@ My work centred on five areas.
 
 5. Proposing a future AI integration that could support enquiry triage, improve job brief quality, summarise cases, and help teams coordinate more efficiently.
 
-The AI concept was a recommendation I made during my tenure. This repository does not claim that it was implemented, and it does not suggest that I still work with Fixstant.
+The AI concept was a proposal developed during the period covered by this case study. It is presented as a future recommendation rather than an implemented feature.
 
 ## Evidence and accuracy
 
-The public case study is based on Fixstant pages that were publicly visible when the research was completed and workflow documents supplied for the project.
+This case study is based on publicly available Fixstant pages and project workflow material available to me during the work.
 
-Every statement is placed into one of four evidence categories: publicly visible, documented, proposed, or pending verification. Where a detail could not be confirmed, the case study says so instead of filling the gap with an assumption.
+Where a detail could not be verified, I have stated that clearly rather than filling the gap with assumptions.
 
-No performance figures have been invented. No private source code, credentials, customer information, internal percentages, or confidential settlement rules are included.
+No private source code, credentials, customer information, internal performance figures or confidential operational rules are included.
 
-## Repository guide
+## Supporting documentation
 
-`src/App.tsx` contains the case study content and page structure.
+This repository includes supporting material behind the public case study:
 
-`src/styles.css` contains the visual system and responsive layout.
-
-`public/screenshots` contains selected public website evidence.
-
-`PROJECT_JOURNAL.md` explains the main challenges, decisions, and lessons behind the work.
-
-`PRIVACY.md` records the public evidence boundary used for this portfolio project.
-
-`docs` contains the static website published through GitHub Pages.
-
-## Run the project locally
-
-The project requires Node.js version 22.13.0 or later.
-
-```bash
-npm install
-npm run dev
-```
-
-To validate a production build, run:
-
-```bash
-npm run build
-```
-
-The production site is served directly by GitHub Pages from the `docs` directory.
+- [Project Journal](./PROJECT_JOURNAL.md) — key challenges, decisions and lessons from the work.
+- [Privacy Note](./PRIVACY.md) — explains the evidence and privacy boundaries used when preparing the public portfolio.
+- [Live Case Study](https://justicekennymomoh.github.io/fixstant-operations-case-study/) — the published version of the project.
 
 ## Portfolio purpose
 
 This case study is designed for Product Operations, Strategy and Operations, Technical Operations, Marketplace Operations, and AI Operations opportunities.
 
-It is a professional account of completed work. It is not the Fixstant production application and is not presented as an official Fixstant publication.
+This is a professional account of work completed during the period covered by the case study. It is not the Fixstant production application and is not presented as an official Fixstant publication.

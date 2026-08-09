@@ -18,10 +18,10 @@ Publicly visible means the information was observable on a public Fixstant page.
 
 Documented means the information was confirmed in a supplied workflow document.
 
-Proposed means the idea was recommended during my tenure but is not presented as implemented.
+Proposed means the idea was developed during the period covered by the case study but is not presented as implemented.
 
 Pending verification means there is not enough public or supplied evidence to make the claim.
 
 ## Role statement
 
-My role was Project Manager and Operations Lead from September 2024 to February 2026. I was not the founder. The future AI integration shown in the case study was a recommendation made during that completed tenure. It does not imply current employment, ongoing delivery, or implementation by Fixstant.
+From September 2024 to February 2026, I worked in a Project Manager and Operations Lead capacity. The future AI integration shown in the case study was a proposal developed during that period and is presented as a future recommendation rather than an implemented feature.

@@ -56,11 +56,11 @@ The lesson was that a credible portfolio does not need to reveal everything. It 
 
 ## Future AI integration recommendation
 
-Before my tenure ended, I proposed a future AI integration that could help the team organise enquiries, identify missing details in job briefs, support matching, summarise operational cases, and route sensitive issues to people.
+During the period covered by this case study, I proposed a future AI integration that could help the team organise enquiries, identify missing details in job briefs, support matching, summarise operational cases, and route sensitive issues to people.
 
 The purpose was to reduce repetitive coordination and help teams respond consistently. Human ownership would remain essential for quotations, payment exceptions, disputes, and other decisions with meaningful consequences.
 
-This was a recommendation, not an implemented feature. I do not present it as current work or as evidence of an ongoing relationship with Fixstant.
+This was a recommendation rather than an implemented feature.
 
 ## What I would measure
 

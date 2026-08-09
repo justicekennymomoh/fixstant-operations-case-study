@@ -32,7 +32,7 @@ function Evidence({ type }: { type: "live" | "documented" | "proposed" | "pendin
   const labels = {
     live: "Visible live",
     documented: "Documented flow",
-    proposed: "Proposed during tenure",
+    proposed: "Proposed recommendation",
     pending: "Pending evidence",
   };
   return <span className={`evidence evidence-${type}`}>{labels[type]}</span>;
@@ -101,7 +101,7 @@ export default function Home() {
             <li>Workflow rules &amp; operational handoffs</li>
             <li>Exception and escalation design</li>
             <li>Growth operations enablement</li>
-            <li>Future AI integration concept proposed during tenure</li>
+            <li>Future AI integration concept proposed during the case study period</li>
           </ul>
           <p className="confidentiality">Public version: commercial percentages, settlement rules and private controls are intentionally excluded.</p>
         </aside>
@@ -280,7 +280,7 @@ export default function Home() {
       <section className="section future-recommendation">
         <div className="section-label">09 / Future AI integration recommendation</div>
         <div className="recommendation-heading">
-          <div><h2>An improvement concept I proposed before my tenure ended.</h2><p>During my time as Project Manager &amp; Operations Lead, I recommended a future AI assisted layer to make enquiries, job briefs and operational escalations easier to coordinate. This was a future recommendation, not a claim of implementation or ongoing involvement after February 2026.</p></div>
+          <div><h2>An improvement concept proposed during the period covered.</h2><p>During the period covered by this case study, I proposed a future AI assisted layer to make enquiries, job briefs and operational escalations easier to coordinate. It is presented as a future recommendation rather than an implemented feature.</p></div>
           <Evidence type="proposed" />
         </div>
         <div className="recommendation-pipeline">
@@ -295,11 +295,11 @@ export default function Home() {
 
       <section className="section evidence-index">
         <div className="section-label">10 / Evidence boundary</div>
-        <div className="evidence-heading"><h2>What is verified, documented and still unknown.</h2><p>This case study distinguishes live evidence, documented workflow design and a recommendation made during my completed tenure.</p></div>
+        <div className="evidence-heading"><h2>What is verified, documented and still unknown.</h2><p>This case study distinguishes live evidence, documented workflow design and a future recommendation developed during the period covered.</p></div>
         <div className="evidence-table">
           <div className="evidence-row"><Evidence type="live" /><strong>Publicly observable</strong><p>Marketplace positioning, client signup, artisan signup and the marketer programme.</p></div>
           <div className="evidence-row"><Evidence type="documented" /><strong>Confirmed in supplied workflows</strong><p>Role selection, client onboarding, discovery, profile evaluation, booking intake, clarification, quotation, bounded negotiation, payment staging, service states and exception handling.</p></div>
-          <div className="evidence-row"><Evidence type="proposed" /><strong>Recommendation made before February 2026</strong><p>A future AI assisted concept for enquiry handling, brief completeness, matching support, case summaries and human escalation.</p></div>
+          <div className="evidence-row"><Evidence type="proposed" /><strong>Future recommendation</strong><p>A future AI assisted concept for enquiry handling, brief completeness, matching support, case summaries and human escalation.</p></div>
           <div className="evidence-row"><Evidence type="pending" /><strong>Not claimed or publicly verified</strong><p>Admin screens, authenticated dashboards, production analytics, measured outcomes or implementation of the future AI recommendation.</p></div>
         </div>
       </section>
